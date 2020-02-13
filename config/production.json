@@ -1,16 +1,14 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
-  "analytics": "UA-43643469-9",
+  "url": "https://IWD20Innopolis.firebaseapp.com/",
   "prefix": "/",
   "firebase": {
-    "appId": "1:516409946568:web:ad5a56d452fc421c",
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
-    "messagingSenderId": "516409946568"
-  },
-  "googleMapApiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8"
+    "apiKey": "AIzaSyA2XD9gxMBuHHG3ofGcqKQqMAKupcTz7Ko",
+    "authDomain": "iwd20innopolis.firebaseapp.com",
+    "databaseURL": "https://iwd20innopolis.firebaseio.com",
+    "projectId": "iwd20innopolis",
+    "storageBucket": "iwd20innopolis.appspot.com",
+    "messagingSenderId": "490887485022",
+    "appId": "1:490887485022:web:05c6d2e77af505a73686cf"
+  }
 }
